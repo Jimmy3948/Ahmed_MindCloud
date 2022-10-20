@@ -4,3 +4,7 @@ GitHub task for Mind Cloud
 - Ahmed Gamal
 # Favourite Team 
 - Hardware
+# Department
+- Electromechanics
+## Age
+- 21
