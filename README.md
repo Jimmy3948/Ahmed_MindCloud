@@ -6,5 +6,12 @@ GitHub task for Mind Cloud
 - Hardware
 # Department
 - Electromechanics
-## Age
+# Age
 - 21
+# Graduation Year
+- 2025
+# Hobbies
+- Reading
+# Favourite color
+- Black
+- Dark Blue
